@@ -11,26 +11,18 @@ module.exports = {
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Home',
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'Neskperssとは？',
         path: '/about/',
-      },
-      {
-        label: 'Contact me',
-        path: '/contact/',
       },
     ],
     author: {
       name: 'Neskperss',
       email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      gitlab: '#',
     },
   },
   plugins: [
