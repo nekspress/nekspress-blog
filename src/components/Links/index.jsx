@@ -25,7 +25,7 @@ class Links extends React.Component {
             </a>
           </li>
           <li className="links__list-item">
-            <a href={`https://www.twitter.com/${links.twitter}`} target="_blank" >
+            <a href={`https://www.twitter.com/${links.twitter}`} target="_blank" rel="noopener noreferrer">
               <i className="icon-twitter" />
             </a>
           </li>

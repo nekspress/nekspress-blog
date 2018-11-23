@@ -6,7 +6,7 @@ import './style.scss'
 
 class PostTemplateDetails extends React.Component {
   render() {
-    const { subtitle, author } = this.props.data.site.siteMetadata
+    const { subtitle } = this.props.data.site.siteMetadata
     const post = this.props.data.markdownRemark
     const tags = post.fields.tagSlugs
 
