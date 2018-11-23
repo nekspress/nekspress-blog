@@ -3,7 +3,6 @@ import get from 'lodash/get'
 import { Link } from 'gatsby'
 import Menu from '../Menu'
 import Links from '../Links'
-import profilePic from '../../pages/photo.jpg'
 import './style.scss'
 
 class Sidebar extends React.Component {
@@ -14,7 +13,7 @@ class Sidebar extends React.Component {
       subtitle,
       copyright,
       menu,
-      title
+      title,
     } = this.props.data.site.siteMetadata
     const isHomePage = get(location, 'pathname', '/') === '/'
 

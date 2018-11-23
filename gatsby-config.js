@@ -23,7 +23,7 @@ module.exports = {
       name: 'Neksperss Blog',
       gitlab: 'nekspress',
       twitter: 'nekspress',
-      rss: 'rss.xml'
+      rss: 'rss.xml',
     },
   },
   plugins: [
