@@ -37,6 +37,8 @@ export const pageQuery = graphql`
         author {
           name
           twitter
+          gitlab
+          rss
         }
         disqusShortname
         url

@@ -4,10 +4,10 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://nekscpress.netlify.com',
-    title: 'Neskperss Blog',
+    title: 'Neksperss Blog',
     subtitle:
-      'Neskperssのみんなでつくるブログ',
-    copyright: 'Neskperss © All rights reserved. 2018-',
+      'Neksperssのみんなでつくるブログ',
+    copyright: 'Neksperss © All rights reserved. 2018-',
     disqusShortname: '',
     menu: [
       {
@@ -15,14 +15,15 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'Neskperssとは？',
+        label: 'Neksperssとは？',
         path: '/about/',
       },
     ],
     author: {
-      name: 'Neskperss',
-      email: '#',
-      gitlab: '#',
+      name: 'Neksperss Blog',
+      gitlab: 'nekspress',
+      twitter: 'nekspress',
+      rss: 'rss.xml'
     },
   },
   plugins: [
