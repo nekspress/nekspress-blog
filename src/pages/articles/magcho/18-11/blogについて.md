@@ -1,5 +1,6 @@
 ---
 title: Nekspress blogをつくった
+path: /Nekspress-blog-wo-tukutta/
 date: 2018-11-23
 layout: post
 category: "magcho"
