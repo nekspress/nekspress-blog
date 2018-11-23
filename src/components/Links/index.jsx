@@ -1,17 +1,15 @@
 import React from 'react'
 import './style.scss'
-import '../../assets/fonts/fontello-771c82e0/css/fontello.css'
+// import '../../assets/fonts/fontello-771c82e0/css/fontello.css'
+import '../../assets/fonts/fontello-8261aea6/css/fontello.css'
 
 class Links extends React.Component {
   render() {
     const author = this.props.data
     const links = {
-      telegram: author.telegram,
       twitter: author.twitter,
-      github: author.gitlab,
-      vk: author.vk,
+      gitlab: author.gitlab,
       rss: author.rss,
-      email: author.email,
     }
 
     return (
@@ -23,12 +21,12 @@ class Links extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="icon-github" />
+              <i className="icon-gitlab" />
             </a>
           </li>
           <li className="links__list-item">
-            <a href={`mailto:${links.email}`}>
-              <i className="icon-mail" />
+            <a href={`https://www.twitter.com/${links.twitter}`} target="_blank" >
+              <i className="icon-twitter" />
             </a>
           </li>
           <li className="links__list-item">
