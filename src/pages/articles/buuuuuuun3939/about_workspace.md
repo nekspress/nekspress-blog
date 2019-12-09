@@ -35,6 +35,8 @@ Surfaceは基本的にDual Boot不可なので、Mr. jakedayが作成したkerne
 マウスはAnkerからsteelseriesに乗り換え。ゲーミングマウスですが普段使い用です。ゲームじゃなくても丁度良い。  
   
 　Ubuntuに関しては、i3を最近入れて使っております。結構便利。Alt + Tabでレイテンシのある切り替えをしなくて済むのが非常に良いです。
+ 
+![](./archey.jpg) 
 
 ## エディタ周り
 - エディタ **Visual Studio Code (VSCode)**
@@ -46,8 +48,6 @@ Surfaceは基本的にDual Boot不可なので、Mr. jakedayが作成したkerne
 　高校生の頃はサクラエディタやらEclipseを使用しておりましたが、ここ数年はメインでVSCodeを使用しています。
 VSCodeの良さは開発初心者でも簡単に使える点と、拡張機能が豊富な点だと個人的に考えています。
 サクラエディタ使ってる人はとりあえずVSCodeに変えたら良いと思う。
-
-![](./archey.jpg) 
 
 ## ターミナル周り
 - ターミナル **Terminator**
