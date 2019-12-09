@@ -47,7 +47,7 @@ Surfaceは基本的にDual Boot不可なので、Mr. jakedayが作成したkerne
 VSCodeの良さは開発初心者でも簡単に使える点と、拡張機能が豊富な点だと個人的に考えています。
 サクラエディタ使ってる人はとりあえずVSCodeに変えたら良いと思う。
 
-![](./archery.png) 
+![](./archery.jpg) 
 
 ## ターミナル周り
 - ターミナル **Terminator**
