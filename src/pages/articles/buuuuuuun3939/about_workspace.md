@@ -1,6 +1,6 @@
 ---
-title: 開発環境のお話【2日目】
-path: /開発環境のお話【2日目】/
+title: 開発環境のお話【2人目】
+path: /開発環境のお話【2人目】/
 date: 2019-12-09
 category: "buuuuuuun3939"
 tags:
@@ -18,7 +18,7 @@ layout: post
   - Surface Laptop Gen1
 - OS
   - Windows 10
-  - Ubuntu
+  - Ubuntu 18.04 LTS
 - キーボード
   - Razer BlackWidow Ultimate 2013
 - マウス
@@ -26,7 +26,7 @@ layout: post
  
 　開発用のPCとして中学生の頃に組んだ自作機と昨年買ったSurface Laptopを使用しています。
 以前は自作機で開発を行っておりましたが、最近はSurface Laptopのみで開発を行っております。
-自作機のOSはWindows 10、Surface LaptopのOSはWindows 10とUbuntu 18.04のDual Bootです。
+自作機のOSはWindows 10、Surface LaptopのOSはWindows 10とUbuntuのDual Bootです。
 Surfaceは基本的にDual Boot不可なので、Mr. jakedayが作成したkernelを使用しています。
 自作機は最近不調。来年にでも新しく組む予定。Broadwell以降のCPUわからん...。AMDが頑張ってるのは知ってる。
   
@@ -41,13 +41,13 @@ Surfaceは基本的にDual Boot不可なので、Mr. jakedayが作成したkerne
   - インストール時から、ある程度形になっている
   - 拡張機能が豊富 
 - 今のエディタにたどり着いた遍歴
-  サクラエディタ -> Eclipse -> VSCode -> Pycharm -> VSCode
+  サクラエディタ -> Eclipse -> VSCode
   
 　高校生の頃はサクラエディタやらEclipseを使用しておりましたが、ここ数年はメインでVSCodeを使用しています。
 VSCodeの良さは開発初心者でも簡単に使える点と、拡張機能が豊富な点だと個人的に考えています。
 サクラエディタ使ってる人はとりあえずVSCodeに変えたら良いと思う。
 
-![(./archey.png)]  
+![(./archey.jpeg)]  
 
 ## ターミナル周り
 - ターミナル **Terminator**
